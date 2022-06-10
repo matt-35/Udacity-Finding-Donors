@@ -28,3 +28,13 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
+## Corrections TODO:
+
+ - ~~Correct the minor issue in the display of the dataset description.~~
+ - ~~Correct the minor bugs in the naive predictor scoring computation.~~
+ - Please add the references you used for describing the 3 models you selected.
+ - ~~Set `random_state` on your classifiers so that we can replicate your results.~~
+ - Explain your model selection based on the suitability to the data and training/testing time consumption.
+ - Explain all your selected model technical terms in more detail so that anyone without a technical background can understand and differentiate between Adaboost and other ensemble methods.
+ - Elaborate a little more in your answer to questions 6 and 7 following the instructions in the notebook.
+ - Update all results from the other sections of the rubric that depend on the above issues.
